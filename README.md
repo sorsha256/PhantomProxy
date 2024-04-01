@@ -64,4 +64,6 @@ proxies = {"http": "http://127.0.0.1:{port}"}
 response = requests.get(url=api_url, params=params, headers=headers, proxies=proxies)
 ```
 
+<h2>My Telegram: https://t.me/sorsha_channel</h2>
+
 
