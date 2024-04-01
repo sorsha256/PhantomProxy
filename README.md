@@ -1,3 +1,5 @@
+<h2>My Telegram: https://t.me/sorsha_channel</h2>
+
 <h1>PhantomProxy</h1>
 
 This repository is designed to parse Shadowsocks from open sources on GitHub, verify them, and deploy them on the local server 127.0.0.1:9xxx.
